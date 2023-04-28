@@ -24,6 +24,7 @@
 fn main(){
     let gb = Board::build();
     gb.show_board();
+    gb.show_board();
 }
 
 struct Board{
